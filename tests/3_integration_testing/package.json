@@ -1,0 +1,14 @@
+{
+  "name": "3_integration_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Imer Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
